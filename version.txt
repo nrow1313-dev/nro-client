@@ -1,1 +1,8 @@
-
+# Tao boi NRO Data Studio - 25/10/2026 22:59
+data_version=6
+data_url=https://github.com/nrow1313-dev/nro-client/releases/download/data-x1/data-4.zip
+data_sha256=ed5a81e1ba5cf6c8fc27cc8528d47f6eb431d6732d163e67410e4d515acba90f
+assets_version=2
+assets_url=https://github.com/nrow1313-dev/nro-client/releases/download/assets-x1/assets.zip
+assets_sha256=44e21421a1f585eb200ffcc9188f562a9f418213bf8ac17d586fd437a664d319
+note=Update thêm cải trang mới
